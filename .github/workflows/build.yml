@@ -1,0 +1,6 @@
+app/
+build.gradle
+settings.gradle
+.github/
+  workflows/
+    build.yml
